@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "USR001",
+      "password": "123456",
+      "name": "Rahul Deshwal",
+      "serviceCenter": 6423261,
+      "isActivated": true
+    },
+    {
+      "id": "USR002",
+      "password": "654321",
+      "name": "Amit Kumar",
+      "serviceCenter": 6423261,
+      "isActivated": true
+    },
+    {
+      "id": "USR003",
+      "password": "987654",
+      "name": "Jay Sharma",
+      "serviceCenter": 6423261,
+      "isActivated": false
+    },
+    {
+      "id": "USR004",
+      "password": "112233",
+      "name": "Deepanshi Sharma",
+      "serviceCenter": 6423261,
+      "isActivated": true
+    },
+    {
+      "id": "USR005",
+      "password": "445566",
+      "name": "Deepak Kumar",
+      "serviceCenter": 6423261,
+      "isActivated": true
+    }
+  ]
+}
